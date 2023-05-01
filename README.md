@@ -4,7 +4,7 @@
     I'm a current undergraduate student at Florida State University studying Computer Science. Welcome to my GitHub profile! Here, you'll find a mix of my coursework from my undergraduate studies and some personal projects that I've been working on.
 </h3>
 
-<h1>Social 📱</h1>
+## Social 📱
 <div align=center>
 <a  href="https://github.com/chrisjnielson44">
         <img src="https://github-stats-alpha.vercel.app/api?username=chrisjnielson44&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
@@ -25,15 +25,14 @@
 </a>
 </div>
 
-<h2> Projects 🖥️ </h2>
+<h2> Projects 🖥️ </h1>
 
 | Name | Repo |
 |---|---|
 |Weather Bot
 
 
-<h2> Coursework 📝 </h2>
-
+## Coursework 📝
 | Course | Repo |
 |---|---|
 |**Introduction to Programming**  |  [COP-3014](https://github.com/chrisjnielson44/COP-3014)|
@@ -42,10 +41,13 @@
 |**Data Structures, Algorithms, and Generic Programming II**| |
 
 
-<h2>Github Stats</h2>
-<div>
+
+## Github Stats 📈
+<div align=center>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chrisjnielson44&theme=dark) 
+</div>
+<div align=center>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chrisjnielson44&theme=dark)&nbsp;&nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chrisjnielson44&theme=dark)
 
