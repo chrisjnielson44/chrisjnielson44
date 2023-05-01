@@ -32,11 +32,9 @@
 
 | Name | Repo |
 |---|---|
-|Weather Bot| | \
-
-
-\
+|Weather Bot| |
 </div>
+<br></br>
 
 ## Coursework 📝
 
@@ -47,12 +45,9 @@
 |**Introduction to Programming**  |  [COP-3014](https://github.com/chrisjnielson44/COP-3014)|
 |**Data Structures, Algorithms, and Generic Programming I**| [COP-3330](https://github.com/chrisjnielson44/COP-3330)|
 |**Advanced Java Programming**| [COP-3252](https://github.com/chrisjnielson44/COP-3252)|
-|**Data Structures, Algorithms, and Generic Programming II**| | \
-
-
-\
-
+|**Data Structures, Algorithms, and Generic Programming II**| |
 </div>
+<br></br>
 
 ## Github Stats 📈
 <div align=center>
