@@ -4,7 +4,7 @@
     I'm a current undergraduate student at Florida State University studying Computer Science. Welcome to my GitHub profile! Here, you'll find a mix of my coursework from my undergraduate studies and some personal projects that I've been working on.
 </h3>
 
-<h1></h1>
+<h1>Social 📱</h1>
 <div align=center>
 <a  href="https://github.com/chrisjnielson44">
         <img src="https://github-stats-alpha.vercel.app/api?username=chrisjnielson44&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
