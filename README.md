@@ -26,13 +26,17 @@
 </div>
 
 <h2> Projects 🖥️ </h1>
+<div align=center>
 
 | Name | Repo |
 |---|---|
-|Weather Bot
+|Weather Bot| |
 
+</div>
 
 ## Coursework 📝
+<div align=center>
+
 | Course | Repo |
 |---|---|
 |**Introduction to Programming**  |  [COP-3014](https://github.com/chrisjnielson44/COP-3014)|
@@ -40,13 +44,14 @@
 |**Advanced Java Programming**| [COP-3252](https://github.com/chrisjnielson44/COP-3252)|
 |**Data Structures, Algorithms, and Generic Programming II**| |
 
-
+</div>
 
 ## Github Stats 📈
 <div align=center>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chrisjnielson44&theme=dark) 
 </div>
+
 <div align=center>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chrisjnielson44&theme=dark)&nbsp;&nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chrisjnielson44&theme=dark)
