@@ -3,6 +3,7 @@
 <h3>
     I'm a current undergraduate student at Florida State University studying Computer Science. Welcome to my GitHub profile! Here, you'll find a mix of my coursework from my undergraduate studies and some personal projects that I've been working on.
 </h3>
+<br></br>
 
 ## Social 📱
 <div align=center>
@@ -20,18 +21,21 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a  href="">
+<a  href="https://twitter.com/chrisjnielson">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 </div>
+<br></br>
 
 ## Projects 🖥️
 <div align=center>
 
 | Name | Repo |
 |---|---|
-|Weather Bot| |
+|Weather Bot| | \
 
+
+\
 </div>
 
 ## Coursework 📝
@@ -43,7 +47,10 @@
 |**Introduction to Programming**  |  [COP-3014](https://github.com/chrisjnielson44/COP-3014)|
 |**Data Structures, Algorithms, and Generic Programming I**| [COP-3330](https://github.com/chrisjnielson44/COP-3330)|
 |**Advanced Java Programming**| [COP-3252](https://github.com/chrisjnielson44/COP-3252)|
-|**Data Structures, Algorithms, and Generic Programming II**| |
+|**Data Structures, Algorithms, and Generic Programming II**| | \
+
+
+\
 
 </div>
 
