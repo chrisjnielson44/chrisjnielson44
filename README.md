@@ -37,7 +37,7 @@ I'm a current undergraduate student at Florida State University studying Compute
 
 
 <h2>Github Stats</h2>
-<div align=center>
+<div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chrisjnielson44&theme=dark) 
 
