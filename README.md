@@ -1,11 +1,16 @@
 <h1 align=center> Hello World &#128075 </h1>
-
-I'm a current undergraduate student at Florida State University studying Computer Science. Welcome to my GitHub profile! Here, you'll find a mix of my coursework from my undergraduate studies and some personal projects that I've been working on.
+<p>
+    <b>
+    I'm a current undergraduate student at Florida State University studying Computer Science. Welcome to my GitHub profile! Here, you'll find a mix of my coursework from my undergraduate studies and some personal projects that I've been working on.
+    </b>
+</p>
 
 <div align=center>
+<h1>
 <a href="https://github.com/chrisjnielson44">
     <img src="https://github-stats-alpha.vercel.app/api?username=chrisjnielson44&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
+</h1>
 </div>
 
 <div align=center>
