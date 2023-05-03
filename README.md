@@ -27,7 +27,7 @@
 </div>
 <br></br>
 
-## Projects 🖥️
+## Projects  🖥️
 <div align=center>
 
 | Name | Repo |
