@@ -59,7 +59,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chrisjnielson44&theme=dark)&nbsp;&nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chrisjnielson44&theme=dark)
 
-![](https://leetcard.chrisjnielson44.cool/chrisjnielson44?theme=nord)
+![Leetcode Stats](https://leetcard.JacobLinCool.cool/chrisjnielson44?theme=nord)
 
 </div>
 <br></br>
