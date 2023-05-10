@@ -8,7 +8,7 @@
 ## Website
 
 <div>
-<h2>Check out my personal website I created with React</h2>
+<p>Check out my personal website I created with React<p>
 <a href="https://cjnielson.com"
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </a>
