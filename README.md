@@ -34,12 +34,12 @@
 </div>
 <br></br>
 
-## Projects  🖥️
+## Projects  🛠️
 <div align=center>
 
 | Project Name | Desc. | Repo |
 |---|---|---|
-|:umbrella_with_rain_drops: **Weather Bot**| | |
+|☔️ **Weather Bot**| | |
 
 
 </div>
