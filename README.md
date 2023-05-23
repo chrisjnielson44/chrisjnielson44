@@ -39,7 +39,7 @@
 
 | Project Name | Desc. | Repo |
 |---|---|---|
-|**Weather Bot**| | |
+|\u2614 **Weather Bot**| | |
 
 
 </div>
