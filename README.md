@@ -39,7 +39,7 @@
 
 | Project Name | Desc. | Repo |
 |---|---|---|
-|\u2614 **Weather Bot**| | |
+|:umbrella_with_rain_drops: **Weather Bot**| | |
 
 
 </div>
