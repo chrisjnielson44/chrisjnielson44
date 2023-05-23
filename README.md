@@ -38,8 +38,8 @@
 <div align=center>
 
 | Project Name | Desc. | Repo |
-|---|---|
-|**Weather Bot**|  | 
+|---|---|---|
+|**Weather Bot**| | |
 
 
 </div>
