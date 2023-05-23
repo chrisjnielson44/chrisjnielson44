@@ -1,11 +1,10 @@
 <h1 align=center> Hello World &#128075 </h1>
 
-<p>
     I'm a current undergraduate student at Florida State University studying Computer Science. Welcome to my GitHub profile! Here, you'll find a mix of my coursework from my undergraduate studies and some personal projects that I've been working on.
-</p>
+
 <br></br>
 
-## Website
+## My Website
 
 <div>
 <p>Check out my personal website I created with React: https://cjnielson.com</p>
@@ -59,7 +58,7 @@
 </div>
 <br></br>
 
-## Github Stats 📈
+## Stats 📈
 <div align=center>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chrisjnielson44&theme=dark) 
