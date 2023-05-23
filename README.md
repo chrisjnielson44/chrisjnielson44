@@ -37,9 +37,11 @@
 ## Projects  🖥️
 <div align=center>
 
-| Name | Repo |
+| Project Name | Desc. | Repo |
 |---|---|
-|Weather Bot| |
+|**Weather Bot**|  | 
+
+
 </div>
 <br></br>
 
