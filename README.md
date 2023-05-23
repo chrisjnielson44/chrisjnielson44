@@ -49,10 +49,11 @@
 
 | Course | Repo |
 |---|---|
-|**Introduction to Programming**  |  [COP-3014](https://github.com/chrisjnielson44/COP-3014)|
-|**Data Structures, Algorithms, and Generic Programming I**| [COP-3330](https://github.com/chrisjnielson44/COP-3330)|
-|**Advanced Java Programming**| [COP-3252](https://github.com/chrisjnielson44/COP-3252)|
-|**Data Structures, Algorithms, and Generic Programming II**| |
+|**Introduction to Programming** | [**COP-3014**](https://github.com/chrisjnielson44/COP-3014)|
+|**Data Structures, Algorithms, and Generic Programming I**| [**COP-3330**](https://github.com/chrisjnielson44/COP-3330)|
+|**Advanced Java Programming**| [**COP-3252**](https://github.com/chrisjnielson44/COP-3252)|
+|**Data Structures, Algorithms, and Generic Programming II**| [**COP-4530**](https://github.com/chrisjnielson44/COP-4530)|
+
 </div>
 <br></br>
 
