@@ -34,11 +34,12 @@ Check out my personal website I created with React: https://cjnielson.com
 
 | Project Name | Desc. | Repo |
 |---|---|---|
-|☔️ **Weather Bot**| | |
-
+|🌐 **My Website**| |[**chrisjnielson44/cjnielson.com**](https://github.com/chrisjnielson44/cjnielson.com)|
+|☔️ **Weather Bot**|  | [**chrisjnielson44/weather-bot**](https://github.com/chrisjnielson44/weather-bot_)|
+|🤖 **AI-Chatbot**| | [**chrisjnielson44/AI-Chatbot**](https://github.com/chrisjnielson44/AI-Chatbot)|
 
 </div>
-<br></br>
+</br>
 
 ## Coursework 📝
 
