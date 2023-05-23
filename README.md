@@ -10,8 +10,7 @@
 
 ## My Website
 
-<div>
-<p>Check out my personal website I created with React: https://cjnielson.com</p>
+Check out my personal website I created with React: https://cjnielson.com
 
 
 
