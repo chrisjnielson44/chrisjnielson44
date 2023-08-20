@@ -3,8 +3,7 @@
  I'm a current undergraduate student at Florida State University studying Computer Science. Welcome to my GitHub profile! Here, you'll find a mix of my coursework from my undergraduate studies and some personal projects that I've been working on.
 ## My Website 🌐
 
-Check out my personal website I created with React: https://cjnielson.com
-
+Check out my personal website I created with Next.js: https://cjnielson.com
 
 
 ## Social 📱
@@ -34,10 +33,11 @@ Check out my personal website I created with React: https://cjnielson.com
 
 | Project Name | Desc. | Repo |
 |---|---|---|
-|**My Website** 🌐| |[**chrisjnielson44/cjnielson.com**](https://github.com/chrisjnielson44/cjnielson.com)|
-|**Weather Bot** ☔️|  | [**chrisjnielson44/weather-bot**](https://github.com/chrisjnielson44/weather-bot_)|
-|**AI-Chatbot** 🤖| | [**chrisjnielson44/AI-Chatbot**](https://github.com/chrisjnielson44/AI-Chatbot)|
-
+|**My Website** 🌐| |[**personal-portfolio-website**](https://github.com/chrisjnielson44/personal-portfolio-website)|
+|**International Fan Media** :soccer:|  | [**internationalfanmedia-website**](https://github.com/chrisjnielson44/weather-bot_)|
+|**AI-Chatbot** 🤖| | [**AI-Chatbot**](https://github.com/chrisjnielson44/AI-Chatbot)|
+|**Weather Bot** | |[**weather-bot**](https://github.com/chrisjnielson44/weather-bot)|
+|**Word of the Day Bot**| |[**wordOfTheDay-bot**](https://github.com/chrisjnielson44/wordOfTheDay-bot)|
 </div>
 </br>
 
@@ -51,6 +51,7 @@ Check out my personal website I created with React: https://cjnielson.com
 |**Data Structures, Algorithms, and Generic Programming I**| [**COP-3330**](https://github.com/chrisjnielson44/COP-3330)|
 |**Advanced Java Programming**| [**COP-3252**](https://github.com/chrisjnielson44/COP-3252)|
 |**Data Structures, Algorithms, and Generic Programming II**| [**COP-4530**](https://github.com/chrisjnielson44/COP-4530)|
+|**Advanced Unix Tools**| [**COP-4342**]()|
 
 </div>
 <br></br>
