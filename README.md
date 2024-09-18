@@ -62,9 +62,4 @@ Check out my personal website I created with Next.js: https://cjnielson.com
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chrisjnielson44&theme=dark) 
 </div>
 
-<div align=center>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chrisjnielson44&theme=dark)&nbsp;&nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chrisjnielson44&theme=dark)![LeetCode Stats](https://leetcard.jacoblin.cool/chrisjnielson44?theme=nord&font=Abel)
-
-</div>
 <br></br>
