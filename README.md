@@ -18,16 +18,6 @@ My work spans knowledge graphs and GraphRAG, Model Context Protocol (MCP) server
 - **Agent reliability:** Production debugging across retrieval, prompts, tool selection, permissions, and backend integrations using logs, traces, evaluation scenarios, and monitoring.
 - **AI platform engineering:** Containerized Python and TypeScript services deployed with Docker, Kubernetes, CI/CD, Linux, and GPU infrastructure.
 
-## Experience
-
-**Bank of New York Mellon** - Software Engineer, Risk Engineering  
-*June 2024 - Present | Pittsburgh, Pennsylvania*
-
-- Lead development of BNY Mellon's Enterprise Risk MCP Server, a secure orchestration layer for enterprise data access and analytical tool execution.
-- Design knowledge graph and GraphRAG patterns across credit, market, counterparty, treasury, model, operational, and technology risk.
-- Develop applied AI systems for anomaly detection, risk-engine comparison, natural-language-to-SQL analysis, and high-stakes reporting.
-- Build and operate FastAPI services, TypeScript interfaces, data integrations, and containerized AI workloads across enterprise platforms.
-
 ## Skills
 
 | Area | Technologies and practices |
@@ -48,12 +38,6 @@ Graduate Certificate, Machine Learning and Data Science - May 2026
 **Florida State University - College of Arts and Sciences**  
 Bachelor of Science, Computer Science - December 2024  
 Minors in Business and Mathematics
-
-## Honors and additional background
-
-- Carnegie Mellon University Graduate Certificate Scholarship, 2025-2026
-- Florida Bright Futures Academic Scholar - Full Tuition, 2021-2024
-- Fluent in Spanish: reading, writing, and speaking
 
 ## Contact
 
