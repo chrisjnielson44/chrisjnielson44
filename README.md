@@ -1,65 +1,38 @@
-<h1 align=center> Hello World &#128075 </h1>
+# Christopher Nielson
 
- I'm a current undergraduate student at Florida State University studying Computer Science. Welcome to my GitHub profile! Here, you'll find a mix of my coursework from my undergraduate studies and some personal projects that I've been working on.
-## My Website 🌐
+Software Engineer at BNY building full-stack applications, data platforms, and applied AI systems.
 
-Check out my personal website I created with Next.js: https://cjnielson.com
+I work primarily with TypeScript, React, Next.js, and Python. I am especially interested in financial technology, machine learning, developer tools, and turning complex data into practical products.
 
+[![Website](https://img.shields.io/badge/Website-cjnielson.com-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://cjnielson.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christopher_Nielson-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopherjnielson/)
+[![Email](https://img.shields.io/badge/Email-cjnielson44%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:cjnielson44@gmail.com)
 
-## Social 📱
-<div align=center>
-<a  href="https://github.com/chrisjnielson44">
-        <img src="https://github-stats-alpha.vercel.app/api?username=chrisjnielson44&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a> 
-</div>
-<br />
-<div align=center>
-<a  href="https://www.linkedin.com/in/christopherjnielson/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />   
-</a>
+## Featured projects
 
-<a  href="mailto:cjnielson44@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+### [Paywind](https://github.com/chrisjnielson44/paywind)
 
-<a  href="https://twitter.com/chrisjnielson">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-</div>
-<br></br>
+A modular personal-finance dashboard designed to bring accounts, financial data, and personalized insights into one interface. Built with TypeScript, Next.js, and Plaid.
 
-## Projects  🛠️
-<div align=center>
+### [Impact Trade File Analysis](https://github.com/chrisjnielson44/impact-trade-file-analysis)
 
-| Project Name | Desc. | Repo |
-|---|---|---|
-|**My Website** 🌐| |[**personal-portfolio-website**](https://github.com/chrisjnielson44/personal-portfolio-website)|
-|**International Fan Media** :soccer:|  | [**internationalfanmedia-website**](https://github.com/chrisjnielson44/weather-bot_)|
-|**AI-Chatbot** 🤖| | [**AI-Chatbot**](https://github.com/chrisjnielson44/AI-Chatbot)|
-|**Weather Bot** | |[**weather-bot**](https://github.com/chrisjnielson44/weather-bot)|
-|**Word of the Day Bot**| |[**wordOfTheDay-bot**](https://github.com/chrisjnielson44/wordOfTheDay-bot)|
-</div>
-</br>
+A financial-risk analysis platform combining Python-based trade processing and machine-learning workflows with a TypeScript dashboard for exploring risk metrics.
 
-## Coursework 📝
+### [Smart Recipe App](https://github.com/chrisjnielson44/Group-20-SmartRecipeApp)
 
-<div align=center>
+A full-stack meal-planning application with recipe recommendations, shopping-list generation, nutritional analysis, and an AI recipe assistant. Built with TypeScript and Python.
 
-| Course | Repo |
-|---|---|
-|**Introduction to Programming** | [**COP-3014**](https://github.com/chrisjnielson44/COP-3014)|
-|**Data Structures, Algorithms, and Generic Programming I**| [**COP-3330**](https://github.com/chrisjnielson44/COP-3330)|
-|**Advanced Java Programming**| [**COP-3252**](https://github.com/chrisjnielson44/COP-3252)|
-|**Data Structures, Algorithms, and Generic Programming II**| [**COP-4530**](https://github.com/chrisjnielson44/COP-4530)|
-|**Advanced Unix Tools**| [**COP-4342**]()|
+### [Personal Website](https://github.com/chrisjnielson44/personal-website-3)
 
-</div>
-<br></br>
+The source for my personal site and project portfolio, built with TypeScript and the TanStack ecosystem.
 
-## Stats 📈
-<div align=center>
+## Technologies
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chrisjnielson44&theme=dark) 
-</div>
+- **Languages:** TypeScript, Python, JavaScript, Java, SQL
+- **Frontend:** React, Next.js, TanStack, Tailwind CSS
+- **Data and ML:** pandas, scikit-learn, Jupyter, PostgreSQL
+- **Tools:** Git, Prisma, Vercel
 
-<br></br>
+## Contact
+
+Visit [cjnielson.com](https://cjnielson.com), connect with me on [LinkedIn](https://www.linkedin.com/in/christopherjnielson/), or email [cjnielson44@gmail.com](mailto:cjnielson44@gmail.com).
