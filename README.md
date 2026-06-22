@@ -1,38 +1,60 @@
 # Christopher Nielson
 
-Software Engineer at BNY building full-stack applications, data platforms, and applied AI systems.
+### Software Engineer | AI Agent Infrastructure | Knowledge Graphs | Risk Engineering
 
-I work primarily with TypeScript, React, Next.js, and Python. I am especially interested in financial technology, machine learning, developer tools, and turning complex data into practical products.
+I build infrastructure for production AI agents in mission-critical, regulated environments. At BNY, I work on enterprise risk engineering systems that give agents secure, permission-aware access to data and analytical tools with traceable, auditable outputs.
+
+My work spans knowledge graphs and GraphRAG, Model Context Protocol (MCP) servers, multi-agent orchestration, entity resolution, agent evaluation, and human-in-the-loop controls. I am particularly interested in making agentic systems reliable: improving retrieval quality, tool selection, observability, permissions, and service integration.
 
 [![Website](https://img.shields.io/badge/Website-cjnielson.com-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://cjnielson.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christopher_Nielson-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopherjnielson/)
 [![Email](https://img.shields.io/badge/Email-cjnielson44%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:cjnielson44@gmail.com)
 
-## Featured projects
+## What I work on
 
-### [Paywind](https://github.com/chrisjnielson44/paywind)
+- **Knowledge graphs and GraphRAG:** Entity resolution, permission-aware context, structured retrieval, cited facts, and real-time data fusion for enterprise agents.
+- **Agent infrastructure:** MCP server development, governed tool execution, authentication, RBAC, entitlements, schema validation, audit logging, and traceability.
+- **Multi-agent systems:** LangGraph workflows coordinating retrieval, tool calls, structured generation, evaluation, and human-reviewed execution.
+- **Agent reliability:** Production debugging across retrieval, prompts, tool selection, permissions, and backend integrations using logs, traces, evaluation scenarios, and monitoring.
+- **AI platform engineering:** Containerized Python and TypeScript services deployed with Docker, Kubernetes, CI/CD, Linux, and GPU infrastructure.
 
-A modular personal-finance dashboard designed to bring accounts, financial data, and personalized insights into one interface. Built with TypeScript, Next.js, and Plaid.
+## Experience
 
-### [Impact Trade File Analysis](https://github.com/chrisjnielson44/impact-trade-file-analysis)
+**Bank of New York Mellon** - Software Engineer, Risk Engineering  
+*June 2024 - Present | Pittsburgh, Pennsylvania*
 
-A financial-risk analysis platform combining Python-based trade processing and machine-learning workflows with a TypeScript dashboard for exploring risk metrics.
+- Lead development of BNY Mellon's Enterprise Risk MCP Server, a secure orchestration layer for enterprise data access and analytical tool execution.
+- Design knowledge graph and GraphRAG patterns across credit, market, counterparty, treasury, model, operational, and technology risk.
+- Develop applied AI systems for anomaly detection, risk-engine comparison, natural-language-to-SQL analysis, and high-stakes reporting.
+- Build and operate FastAPI services, TypeScript interfaces, data integrations, and containerized AI workloads across enterprise platforms.
 
-### [Smart Recipe App](https://github.com/chrisjnielson44/Group-20-SmartRecipeApp)
+## Skills
 
-A full-stack meal-planning application with recipe recommendations, shopping-list generation, nutritional analysis, and an AI recipe assistant. Built with TypeScript and Python.
+| Area | Technologies and practices |
+| --- | --- |
+| **AI agents** | OpenAI SDK, Claude Agent SDK, LangGraph, multi-agent workflows, structured outputs, agent evaluation, human-in-the-loop controls, Langfuse |
+| **Knowledge and retrieval** | Knowledge graphs, GraphRAG, RAG, entity resolution, context engineering, retrieval quality, real-time data fusion |
+| **Agent infrastructure** | MCP server development, tool execution, tool calling, orchestration, RBAC, entitlements, audit logging, schema validation |
+| **Backend and platform** | FastAPI, REST APIs, microservices, Node.js, Docker, Kubernetes, Linux, CI/CD, Nvidia CUDA/GPU, GCP |
+| **Frontend** | TypeScript, React, Next.js, JavaScript |
+| **Data and ML** | PostgreSQL, Snowflake, MongoDB, Oracle SQL, MSSQL, PyTorch, TensorFlow, JAX, scikit-learn, NLP |
+| **Languages** | Python, C++, TypeScript, SQL, JavaScript, Java, C# |
 
-### [Personal Website](https://github.com/chrisjnielson44/personal-website-3)
+## Education
 
-The source for my personal site and project portfolio, built with TypeScript and the TanStack ecosystem.
+**Carnegie Mellon University - School of Computer Science**  
+Graduate Certificate, Machine Learning and Data Science - May 2026
 
-## Technologies
+**Florida State University - College of Arts and Sciences**  
+Bachelor of Science, Computer Science - December 2024  
+Minors in Business and Mathematics
 
-- **Languages:** TypeScript, Python, JavaScript, Java, SQL
-- **Frontend:** React, Next.js, TanStack, Tailwind CSS
-- **Data and ML:** pandas, scikit-learn, Jupyter, PostgreSQL
-- **Tools:** Git, Prisma, Vercel
+## Honors and additional background
+
+- Carnegie Mellon University Graduate Certificate Scholarship, 2025-2026
+- Florida Bright Futures Academic Scholar - Full Tuition, 2021-2024
+- Fluent in Spanish: reading, writing, and speaking
 
 ## Contact
 
-Visit [cjnielson.com](https://cjnielson.com), connect with me on [LinkedIn](https://www.linkedin.com/in/christopherjnielson/), or email [cjnielson44@gmail.com](mailto:cjnielson44@gmail.com).
+Based in Pittsburgh, Pennsylvania. Visit [cjnielson.com](https://cjnielson.com), connect with me on [LinkedIn](https://www.linkedin.com/in/christopherjnielson/), or email [cjnielson44@gmail.com](mailto:cjnielson44@gmail.com).
